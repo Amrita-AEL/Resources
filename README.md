@@ -15,10 +15,10 @@ If you like the repo, please star. This motivates us to update the repo frequent
 
 ## **Repository Structure**  
 
-- [AD/ADAS](ad-adas)  
-- [SDV](sdv)  
-- [Electrification](electrification)  
-- [Automotive Common](automotive-common)  
+- [AD/ADAS](AD_ADAS)  
+- [SDV](SDV)  
+- [Electrification](Electrification)  
+- [AEL Common](AEL-Common)  
 
 ---
 
