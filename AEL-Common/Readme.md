@@ -24,6 +24,7 @@ System Engineering focuses on designing, integrating, and managing complex syste
 - **Title:** [Systems Engineering - MATLAB Tech Talk](#https://www.youtube.com/playlist?list=PLn8PRpmsu08owzDpgnQr7vo2O-FUQm_fL)
   - **Platform:** YouTube
   - **Description:** This series provides a broad overview of how systems engineering helps you develop complex projects that meet  program objectives in an efficient way.
+  - **Link:** https://www.youtube.com/playlist?list=PLn8PRpmsu08owzDpgnQr7vo2O-FUQm_fL 
 
 - **Title:** [Lecture Name](#)
   - **Platform:** YouTube/Coursera/EdX
